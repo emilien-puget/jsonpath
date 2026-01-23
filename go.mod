@@ -1,11 +1,11 @@
 module github.com/pb33f/jsonpath
 
-go 1.25
+go 1.24
 
 require (
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/stretchr/testify v1.11.1
-	go.yaml.in/yaml/v4 v4.0.0-rc.2
+	go.yaml.in/yaml/v4 v4.0.0-rc.4
 )
 
 require (
